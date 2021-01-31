@@ -1,0 +1,1 @@
+# yoshida-boardinghouse.github.io
