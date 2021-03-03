@@ -1,12 +1,12 @@
 .header {
     background-color: #26d0c9;
     color: #fff;
-    height: 90px;
+    height: 60px;
 }
   
 .header-logo {
-    float: left;
-    font-size: 24px;
+    float: bottom;
+    font-size: 30px;
     padding: 20px 30px;
 }
 
@@ -15,11 +15,11 @@ body {
 }
   
 .main {
-    padding: 30px 30px;
+    padding: 30px 12px;
 }
   
 .copy-container h1 {
-    font-size: 50px;
+    font-size: 36px;
 } 
 
 .copy-container h2 {
@@ -28,7 +28,7 @@ body {
 } 
   
 .copy-container h3{
-      font-size: 20px;
+      font-size: 12px;
 }
   
 .contents {
@@ -39,7 +39,7 @@ body {
   
 .section-title {
     border-bottom: 2px solid #dee7ec;
-    font-size: 50px;
+    font-size: 36px;
     padding-bottom: 15px;
     margin-bottom: 50px;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .footer-logo {
-  font-size: 50px;
+  font-size: 48px;
 }
 
 .footer-logo h5 {
@@ -60,6 +60,6 @@ font-size: 30px;
 }
 
 h5 a {
-    color: floralwhite;
+    color: #fff;
     font-size: 30px;
 }
