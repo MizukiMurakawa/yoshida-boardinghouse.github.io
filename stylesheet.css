@@ -1,13 +1,13 @@
 .header {
     background-color: #26d0c9;
     color: #fff;
-    height: 60px;
+    height: 90px;
 }
   
 .header-logo {
-    float: bottom;
+    float: left;
     font-size: 30px;
-    padding: 20px 30px;
+    padding: 10px 20px;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 }
   
 .main {
-    padding: 30px 12px;
+    padding: 24px 24px;
 }
   
 .copy-container h1 {
@@ -23,7 +23,7 @@ body {
 } 
 
 .copy-container h2 {
-    font-size: 30px;
+    font-size: 24px;
     color: rgb(202, 202, 202);
 } 
   
@@ -34,12 +34,11 @@ body {
 .contents {
     height: 500px;
     margin-top: 100px;
-    font-size: 36px;
+    font-size: 24px;
 }
   
 .section-title {
     border-bottom: 2px solid #dee7ec;
-    font-size: 36px;
     padding-bottom: 15px;
     margin-bottom: 50px;
 }
@@ -48,18 +47,18 @@ body {
   background-color: #2f5167;
   color: #fff;
   height: 150px;
-  padding: 10px;
+  padding: 36px;
 }
 
 .footer-logo {
-  font-size: 48px;
+  font-size: 50px;
 }
 
 .footer-logo h5 {
-font-size: 30px;
+font-size: 24px;
 }
 
 h5 a {
     color: #fff;
-    font-size: 30px;
+    font-size: 24px;
 }
